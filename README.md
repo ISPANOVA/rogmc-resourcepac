@@ -1,11 +1,10 @@
-# RogMC Resource Pack
+# RogMC Squid Game Pack
 
-Optional resource pack for the RogMC Minecraft network.
+Resource pack used only inside Squid Game on the RogMC network. The server sends it when you enter Squid Game and removes it when you leave.
 
-- Custom Squid Game sounds (doll voice "Green light! Red light!", doll song, gunshot, Mingle music, buzzer, elimination) and game sounds (victory, level up, countdown).
-- Dalgona candy texture for the Squid Game.
-- All audio is original and generated for this pack.
+- Textures: dalgona candy, the doll (dress, shirt, hair, face, glowing eyes), green tracksuits with white stripes, tempered glass, piggy-bank cash, sand, bunk-bed sheets.
+- Sounds: the doll saying "Green light!" / "Red light!", her song, gunshots, Mingle music, buzzer, elimination.
+- All textures and audio are original and generated for this pack.
+- Works on 1.8 through 1.21.4+ (both texture name sets are included).
 
-Pack format 46 (Minecraft 1.21.4), with supported formats 15–99.
-
-Download: `RogMC-Pack.zip`
+`RogMC-Empty.zip` is an empty pack the server uses to unload the Squid Game pack on clients older than 1.20.3.
